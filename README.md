@@ -1,7 +1,6 @@
 # Hi, I'm Yana 👋
 
-🌍 London, UK | 🚀 Co-Founder & CEO @ [YAi](https://yai.digital/) | 🛡️ AI Trust & LLM Visibility for Regulated Industries| 🛡️ AI Trust & LLM Visibility for Regulated Industries
-
+🌍 London, UK | 🚀 Co-Founder & CEO @ [YAi](https://yai.digital/) | 🛡️ AI Trust & LLM Visibility for Regulated Industries|
 ---
 
 > Generative AI is transforming businesses — but for those in banking, FinTech, professional services and healthcare, one hallucination can cost millions in fines and reputational damage.
